@@ -2,7 +2,7 @@ import scraperwiki
 import BeautifulSoup
 import urllib2, datetime, sys
 from urllib2 import HTTPError
-from scraperwiki import datastore
+# from scraperwiki import datastore
 
 #scrape page
 for id in range(8590000,8596057):
